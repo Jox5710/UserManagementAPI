@@ -48,4 +48,19 @@ dotnet run
 ```bash
 https://localhost:5001/swagger
 ```
+## project structure
+UserManagementAPI/
+├── Controllers/
+│   └── UserController.cs
+├── Program.cs
+├── UserManagementAPI.csproj
+├── README.md
+├── appsettings.json
+├── appsettings.Development.json
+├── Properties/
+│   └── launchSettings.json
+├── bin/
+├── obj/
+└── GeneratedApiClient.cs      (إذا استخدمت NSwag لتوليد العميل)
+
 
