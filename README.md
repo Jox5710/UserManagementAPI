@@ -17,7 +17,7 @@ Swagger/OpenAPI is integrated for documentation and testing.
 - **Middleware Logging**: Logs request method and path to console.
 - **Validation**: Ensures only valid user data is accepted.
 - **Swagger/OpenAPI**: Accessible at `/swagger` for testing and documentation.
-
+- copilot debug the code
 ---
 
 ## Prerequisites
@@ -63,7 +63,7 @@ UserManagementAPI/
 │   └── launchSettings.json
 ├── bin/
 ├── obj/
-└── GeneratedApiClient.cs      (إذا استخدمت NSwag لتوليد العميل)
+└── GeneratedApiClient.cs     
 ```
 
 
