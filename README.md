@@ -50,7 +50,7 @@ https://localhost:5001/swagger
 ```
 ## project structure
 
-
+```bash
 UserManagementAPI/
 ├── Controllers/
 │   └── UserController.cs
@@ -64,7 +64,7 @@ UserManagementAPI/
 ├── bin/
 ├── obj/
 └── GeneratedApiClient.cs      (إذا استخدمت NSwag لتوليد العميل)
-
+```
 
 
 
